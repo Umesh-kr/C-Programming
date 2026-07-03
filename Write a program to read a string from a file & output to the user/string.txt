@@ -1,0 +1,1 @@
+variable is name of memory location which store some data.

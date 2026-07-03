@@ -1,0 +1,1 @@
+Bhai, tumne code me comment me to sahi likha hai, lekin actual code me abhi bhi galat format specifier use kiya hai.

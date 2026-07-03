@@ -1,0 +1,6 @@
+subject	   marks	  cgpa	  course
+math	    85	  8.9	  B.tech
+physics	    90	  9.5	  B.tech
+chemistry	88	  9.2	  B.tech
+english	    80	  8.4	  B.tech
+c	        95	  10.0	  B.tech
